@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\C20-Form-07-15-2019\C20-Form-07-15-2019\bin\Debug\C20-Form-07-15-2019.exe.config
+C:\Users\User\source\repos\C20-Form-07-15-2019\C20-Form-07-15-2019\bin\Debug\C20-Form-07-15-2019.exe
+C:\Users\User\source\repos\C20-Form-07-15-2019\C20-Form-07-15-2019\bin\Debug\C20-Form-07-15-2019.pdb
+C:\Users\User\source\repos\C20-Form-07-15-2019\C20-Form-07-15-2019\obj\Debug\C20-Form-07-15-2019.csprojAssemblyReference.cache
+C:\Users\User\source\repos\C20-Form-07-15-2019\C20-Form-07-15-2019\obj\Debug\C20_Form_07_15_2019.Form1.resources
+C:\Users\User\source\repos\C20-Form-07-15-2019\C20-Form-07-15-2019\obj\Debug\C20_Form_07_15_2019.Properties.Resources.resources
+C:\Users\User\source\repos\C20-Form-07-15-2019\C20-Form-07-15-2019\obj\Debug\C20-Form-07-15-2019.csproj.GenerateResource.cache
+C:\Users\User\source\repos\C20-Form-07-15-2019\C20-Form-07-15-2019\obj\Debug\C20-Form-07-15-2019.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\C20-Form-07-15-2019\C20-Form-07-15-2019\obj\Debug\C20-Form-07-15-2019.exe
+C:\Users\User\source\repos\C20-Form-07-15-2019\C20-Form-07-15-2019\obj\Debug\C20-Form-07-15-2019.pdb
+C:\Users\User\source\repos\C20-Form-07-15-2019\C20-Form-07-15-2019\obj\Debug\C20_Form_07_15_2019.Main.resources
+C:\Users\User\source\repos\C20-Form-07-15-2019\C20-Form-07-15-2019\obj\Debug\C20_Form_07_15_2019.ReadersForm.resources
